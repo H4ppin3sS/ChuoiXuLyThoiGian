@@ -1,3 +1,7 @@
 # ChuoiXuLyThoiGian
-
+-BTTH1
 + Link dữ liệu BTTH1: https://www.kaggle.com/competitions/playground-series-s5e4/overview 
+
+- BTTH2
++ Link dữ liệu BTTH2: https://www.kaggle.com/datasets/imtkaggleteam/household-power-consumption/data
++ file code và word được tải lên trong file zip BTTH_LuongTuanAnh_2251262571_64TTNT1
